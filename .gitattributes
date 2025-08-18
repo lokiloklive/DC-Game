@@ -1,0 +1,4 @@
+*.wasm application/wasm
+*.data application/octet-stream
+*.json application/json
+*.js application/javascript
